@@ -1,3 +1,3 @@
-This is a basic data visualization for processing FEMA invoices. The three graphs try to plot how many total invoices are remaining, how many were processed each week, and how many were added each week.
+This is a basic data visualization for processing FEMA invoices in the Litigation and Expense module. The three graphs try to plot how many total invoices are remaining, how many were processed each week, and how many were added each week.
 
 Programming language is R.
